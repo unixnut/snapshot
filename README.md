@@ -1,4 +1,5 @@
 ![example workflow](https://github.com/gemerden/snapshot/actions/workflows/python-app.yml/badge.svg)
+[![snapshot on PyPI](https://img.shields.io/pypi/v/snapshot.svg)](https://pypi.python.org/pypi/snapshot)
 
 # Snapshot
 
